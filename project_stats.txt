@@ -1,0 +1,14 @@
+24.4.18 20:53
+Projekt Statistika
+
+                             	Segmenty	Slova	Znaky (bez mezer)	Znaky (včetně mezer)	#Soubory	
+Celkem:                      	     157	  921	             4610	                5323	       1	
+Zbývající:                   	     157	  921	             4610	                5323	       1	
+Jedinečné segmenty:          	     115	  847	             4260	                4959	       1	
+Zbývající jedinečné segmenty:	     115	  847	             4260	                4959	       1	
+
+
+Statistika jednotlivých souborů:
+
+Název souboru  	Segmenty celkem	Zbývající segmenty	Jedinečné segmenty	Zbývající jedinečné segmenty	Slova celkem	Zbývající slova	Jedinečná slova	Jedinečná Zbývající slova	Znaky celkem (bez mezer)	Zbývající znaky (bez mezer)	Jedinečné znaky (bez mezer)	Zbývající jedinečné znaky (bez mezer)	Znaky celkem (včetně mezer)	Zbývající znaky (včetně mezer)	Jedinečné znaky (včetně mezer)	Jedinečné zbývající znaky (včetně mezer)	
+LUTY_paper.docx	            157	               157	               115	                         115	         921	            921	            847	                      847	                    4610	                       4610	                       4260	                                 4260	                       5323	                          5323	                          4959	                                    4959	
